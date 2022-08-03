@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   
+    background-color:#111;
+}
+/* .wrapper{
+    background: url('./hms.jpg') no-repeat   center center fixed;
+    background-size: cover;
+    height:auto;
+    width:auto;
+    } */
+
+/* .pic{background-image:url('./hms.jpg'); 
+    background: size cover 100%;
+    background-position:center center;
+    object-fit: contain;
+    width:100%;
+} */
+#main { 
+    width: 800px;
+    margin: 0 auto;
+}
+#card1    {
+    width: 200px;
+    height: 400px;
+    background: red;
+    float: left;
+}
+
+#card2  {
+    width: 600px;
+    background: #ffffff;
+    height: 400px;
+    margin-left: 200px;
+}
